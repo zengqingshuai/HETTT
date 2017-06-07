@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HETTT:war">
+    <output-path>$PROJECT_DIR$/../HETTT/target</output-path>
+    <root id="archive" name="HETTT.war">
+      <element id="artifact" artifact-name="HETTT:war exploded" />
+    </root>
+  </artifact>
+</component>
